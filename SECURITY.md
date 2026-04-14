@@ -6,6 +6,8 @@
 **Critical:** 69 | **High:** 57 | **Safe skills:** 96/135
 
 > **Personal note:** Forked for learning purposes. Tracking the CRITICAL-severity skills closely — particularly `research-lookup` (17 findings) and `scientific-slides` (18 findings) as starting points for understanding what patterns trigger critical flags.
+>
+> **TODO (me):** Start with `dask` (3 findings) and `seaborn` (4 findings) since they have the lowest finding counts in CRITICAL — easier to dig into the actual flagged patterns before tackling the big ones like `scientific-slides`.
 
 ## Summary
 
@@ -64,10 +66,4 @@
 | open-notebook | 🟡 MEDIUM | 18 | ✅ | 21.2s |
 | parallel-web | 🟡 MEDIUM | 5 | ✅ | 29.7s |
 | pennylane | 🟡 MEDIUM | 5 | ✅ | 24.4s |
-| phylogenetics | 🟡 MEDIUM | 9 | ✅ | 23.0s |
-| protocolsio-integration | 🟡 MEDIUM | 6 | ✅ | 24.9s |
-| pufferlib | 🟡 MEDIUM | 4 | ✅ | 25.2s |
-| pymatgen | 🟡 MEDIUM | 5 | ✅ | 28.0s |
-| statsmodels | 🟡 MEDIUM | 3 | ✅ | 18.7s |
-| vaex | 🟡 MEDIUM | 3 | ✅ | 20.6s |
-| xlsx | 🟡 MEDIUM | 4 | ✅ | 38.6s |
+| phylogenetics | 🟡 MEDIUM | 9 | ✅ | 23
