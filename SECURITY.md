@@ -8,6 +8,14 @@
 > **Personal note:** Forked for learning purposes. Tracking the CRITICAL-severity skills closely — particularly `research-lookup` (17 findings) and `scientific-slides` (18 findings) as starting points for understanding what patterns trigger critical flags.
 >
 > **TODO (me):** Start with `dask` (3 findings) and `seaborn` (4 findings) since they have the lowest finding counts in CRITICAL — easier to dig into the actual flagged patterns before tackling the big ones like `scientific-slides`.
+>
+> **Progress log:**
+> - [ ] `dask` — not started
+> - [ ] `seaborn` — not started
+> - [ ] `umap-learn` — not started (same count as seaborn, good follow-up)
+> - [ ] `pptx-posters` — not started
+> - [ ] `research-lookup` — not started (stretch goal)
+> - [ ] `scientific-slides` — not started (stretch goal)
 
 ## Summary
 
@@ -61,9 +69,4 @@
 | exploratory-data-analysis | 🟡 MEDIUM | 5 | ✅ | 37.4s |
 | histolab | 🟡 MEDIUM | 4 | ✅ | 25.5s |
 | imaging-data-commons | 🟡 MEDIUM | 5 | ✅ | 30.1s |
-| labarchive-integration | 🟡 MEDIUM | 8 | ✅ | 35.4s |
-| lamindb | 🟡 MEDIUM | 5 | ✅ | 32.7s |
-| open-notebook | 🟡 MEDIUM | 18 | ✅ | 21.2s |
-| parallel-web | 🟡 MEDIUM | 5 | ✅ | 29.7s |
-| pennylane | 🟡 MEDIUM | 5 | ✅ | 24.4s |
-| phylogenetics | 🟡 MEDIUM | 9 | ✅ | 23
+| labarchive-integration | 🟡
