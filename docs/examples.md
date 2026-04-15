@@ -61,6 +61,6 @@ Step 1: Query ChEMBL for known EGFR inhibitors with high potency
 - Filter: IC50 < 100 nM, pChEMBL value > 7  # loosened from 50 nM to capture more scaffold diversity
 - Extract SMILES strings and activity data
 - Export to DataFrame for analysis
-# NOTE: I've found that bumping the result limit to 500 (default is 100) gives much better
-# scaffold coverage here — worth it even if it slows down the initial query a bit.
+# NOTE: I've found that bumping the result limit to 500 (default is 100) helps avoid
+# missing less-common scaffolds that still have good potency. Worth the extra query time.
 ```
